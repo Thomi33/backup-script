@@ -53,3 +53,4 @@ crontab -e
 
 - `exit 0` → todo bien
 - `exit 1` → error (sin argumentos, carpeta inexistente, o falló la compresión)
+# Proyecto-Backup-Linux
